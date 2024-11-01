@@ -1,0 +1,225 @@
+# Copyright (C) 2023 GeekRoom.agency
+# This file is distributed under the same license as the Splendid Sales Booster for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Splendid Sales Booster for WooCommerce 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/splendid-sales-booster\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-12-07T13:36:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: splendid-sales-booster\n"
+
+#. Plugin Name of the plugin
+msgid "Splendid Sales Booster for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://splendidplugins.com/sales-booster/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The easiest to use plugin for cross-selling."
+msgstr ""
+
+#. Author of the plugin
+msgid "GeekRoom.agency"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://geekroom.agency"
+msgstr ""
+
+#. translators: 1: Name of a plugin 2: Requred PHP version
+#: src/plugin-init.php:38
+msgid "The &#8220;%1$s&#8221; plugin cannot run on PHP versions older than %2$s. Please contact your host and ask them to upgrade."
+msgstr ""
+
+#. translators: 1: Name of a plugin 2: Requred WP version
+#: src/plugin-init.php:43
+msgid "The &#8220;%1$s&#8221; plugin cannot run on WordPress versions older than %2$s. Please update WordPress."
+msgstr ""
+
+#. translators: 1: Name of a plugin 2: Name of a required plugin
+#: src/plugin-init.php:75
+msgid "The &#8220;%1$s&#8221; plugin cannot run without %2$s active. Please install and activate %2$s plugin."
+msgstr ""
+
+#. translators: 1: Name of a plugin 2: Required version of a plugin 3: Name of a required plugin
+#: src/plugin-init.php:78
+msgid "The &#8220;%1$s&#8221; plugin requires at least %2$s version of %3$s to work correctly. Please update it to its latest release."
+msgstr ""
+
+#: src/Plugin/CrossSellDataStore.php:100
+msgid "Invalid data store."
+msgstr ""
+
+#: src/Plugin/CrossSellRESTSectionController.php:135
+#: views/admin/product-options.php:25
+msgid "Section title"
+msgstr ""
+
+#: src/Plugin/Plugin.php:71
+msgid "https://wordpress.org/plugins/splendid-sales-booster/"
+msgstr ""
+
+#: src/Plugin/Plugin.php:218
+msgid "Please select some product options before adding this product to your cart."
+msgstr ""
+
+#: src/Plugin/Plugin.php:258
+msgid "Splendid Sales Booster"
+msgstr ""
+
+#: src/Plugin/Plugin.php:282
+#: views/admin/product-options.php:18
+msgid "Splendid Sales Booster cross-sells"
+msgstr ""
+
+#. translators: 1: Link to plugin Docs 2: Link label.
+#: src/Plugin/Plugin.php:285
+msgid "View plugin documentation"
+msgstr ""
+
+#: src/Plugin/Plugin.php:288
+msgid "Display cross-sells section"
+msgstr ""
+
+#. translators: %s: Link to plugin Docs.
+#: src/Plugin/Plugin.php:296
+msgid "The location that the Splendid Sales Booster cross-sells section should be displayed. Learn more in <a href=\"%s\" target=\"_blank\">plugin documentation</a>."
+msgstr ""
+
+#: src/Plugin/Plugin.php:300
+msgid "In a drawer"
+msgstr ""
+
+#: src/Plugin/Plugin.php:301
+msgid "On product page"
+msgstr ""
+
+#: src/Plugin/Plugin.php:306
+msgid "Cross-sells section default title"
+msgstr ""
+
+#: src/Plugin/Plugin.php:308
+msgid "This will be used on all product pages by default. You can also set it per each product individually."
+msgstr ""
+
+#. translators: %s: default section title
+#: src/Plugin/Plugin.php:311
+msgid "e.g. %s&hellip;"
+msgstr ""
+
+#: src/Plugin/Plugin.php:315
+msgid "Product images"
+msgstr ""
+
+#: src/Plugin/Plugin.php:317
+msgid "Show product images"
+msgstr ""
+
+#: src/Plugin/Plugin.php:368
+msgid "Are you sure you want to remove this product from Splendid Sales Booster cross-sells?"
+msgstr ""
+
+#. translators: %s: product name
+#: src/Plugin/Plugin.php:947
+msgctxt "Item name in quotes"
+msgid "&ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s: products' names
+#: src/Plugin/Plugin.php:970
+msgid "Together with %s"
+msgstr ""
+
+#: src/Plugin/Plugin.php:1145
+msgid "Delete Splendid Sales Booster cross-sell products"
+msgstr ""
+
+#: src/Plugin/Plugin.php:1146
+msgid "Delete cross-sells"
+msgstr ""
+
+#: src/Plugin/Plugin.php:1150
+msgid "This option will delete Splendid Sales Booster cross-sell relations from ALL of your products, use with caution. This action cannot be reversed."
+msgstr ""
+
+#: src/Plugin/Plugin.php:1171
+msgid "Splendid Sales Booster cross-sell products successfully deleted."
+msgstr ""
+
+#: src/Plugin/wcssb-cross-sells-functions.php:41
+msgid "You may also like"
+msgstr ""
+
+#: src/Plugin/wcssb-cross-sells-functions.php:181
+msgid "Any variation"
+msgstr ""
+
+#: src/Plugin/wcssb-cross-sells-functions.php:576
+msgid "Choose an option"
+msgstr ""
+
+#: src/PluginVendor/AbstractPlugin.php:181
+msgid "Support"
+msgstr ""
+
+#: src/PluginVendor/AbstractPlugin.php:186
+msgid "Docs"
+msgstr ""
+
+#: src/PluginVendor/AbstractPlugin.php:192
+msgid "Settings"
+msgstr ""
+
+#: views/admin/product-options.php:28
+msgid "This will be shown above Splendid Sales Booster cross-sell products list."
+msgstr ""
+
+#: views/admin/product-options.php:36
+msgid "Add product"
+msgstr ""
+
+#: views/admin/tmpl-wcssb-product-row.php:26
+msgid "Product"
+msgstr ""
+
+#: views/admin/tmpl-wcssb-product-row.php:28
+msgid "Select the product that you want to be promoted with the current product."
+msgstr ""
+
+#: views/admin/tmpl-wcssb-product-row.php:28
+msgid "Supported types: simple, variable, variation, simple subscription, subscription variation"
+msgstr ""
+
+#: views/admin/tmpl-wcssb-product-row.php:29
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: views/admin/tmpl-wcssb-product-row.php:39
+msgid "Remove"
+msgstr ""
+
+#: views/admin/tmpl-wcssb-product-row.php:48
+msgid "Product's call-to-action"
+msgstr ""
+
+#: views/admin/tmpl-wcssb-product-row.php:50
+msgid "This text will be shown above the product title."
+msgstr ""
+
+#. translators: %s: product name
+#: views/front/single-product-section.php:33
+msgid "Add also &ldquo;%s&rdquo; to cart"
+msgstr ""
+
+#: views/front/single-product-section.php:104
+#: views/front/tmpl-wcssb-drawer-product-row.php:71
+msgid "Clear"
+msgstr ""

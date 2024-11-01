@@ -1,0 +1,83 @@
+# Splendid Sales Booster for WooCommerce Changelog
+
+## [1.3.0] - 2024-10-24
+### Changed
+- Increased minimum required PHP version to 7.4.
+
+### Fixed
+- PHP 8.1 compatibility.
+
+## [1.2.5] - 2024-09-09
+### Added
+- WC 9.3 and WP 6.6 compatibility.
+
+### Fixed
+- Frontend section item styling.
+
+## [1.2.4] - 2024-06-27
+### Added
+- WC 9.0 compatibility.
+
+## [1.2.3] - 2024-05-21
+### Added
+- WC 8.9 and WP 6.5 compatibility.
+
+## [1.2.2] - 2024-01-11
+### Added
+- WC 8.5 compatibility.
+
+### Fixed
+- Conflicts when merging minified JS files.
+
+## [1.2.1] - 2024-01-04
+### Added
+- WC 8.4 compatibility.
+
+### Fixed
+- Adding variable Splendid Sales Booster cross-sell products to Cart.
+
+## [1.2.0] - 2023-12-07
+### Added
+- Ability to choose variable product in Splendid Sales Booster cross-sells section.
+
+### Changed
+- Frontend section templates.
+- Product titles logic in added to cart success notice.
+
+### Fixed
+- WC REST API Product's Splendid Sales Booster cross-sells section endpoint schema.
+
+## [1.1.3] - 2023-11-15
+### Added
+- PHP 8.1 compatibility.
+
+## [1.1.2] - 2023-11-08
+### Added
+- Declare plugin compatibility with WooCommerce Cart and Checkout Blocks.
+- WC 8.3 and WP 6.4 compatibility.
+
+## [1.1.1] - 2023-09-18
+### Added
+- WC 8.1 and WP 6.3 compatibility.
+
+### Fixed
+- `Delete Splendid Sales Booster cross-sell products` tool filter.
+
+## [1.1.0] - 2023-06-21
+### Added
+- WC 7.8 compatibility.
+
+### Fixed
+- Fixed styling in Twenty Twenty-Three theme.
+
+## [1.0.2] - 2023-05-17
+### Added
+- WC 7.7 compatibility.
+
+## [1.0.1] - 2023-04-26
+### Added
+- WC 7.6 compatibility.
+
+## [1.0.0] - 2023-03-29
+### Added
+- Main plugin functions.
